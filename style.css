@@ -1,0 +1,8 @@
+.example-contrast h3 {
+  color: #F0F7F4;
+  background: #B3BFB8;
+}
+.example-contrast h3:first-child {
+  color: #F0F7F4;
+  background: #3C493F;
+}
